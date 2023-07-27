@@ -1,3 +1,5 @@
 folium
 pandas
+shapely
+tqdm
 xlrd
